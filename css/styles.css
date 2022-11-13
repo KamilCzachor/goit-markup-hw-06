@@ -549,7 +549,7 @@ div .twitter,
 .newsletter-label {
   font-weight: 700;
   line-height: 16px;
-  letter-spacing: 1.14;
+  letter-spacing: 10.01;
   text-transform: uppercase;
 }
 .newsletter-email-box {
@@ -580,7 +580,7 @@ div .twitter,
   align-items: center;
   text-align: center;
   justify-content: center;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .newsletter-icon {
@@ -633,9 +633,6 @@ div .twitter,
 .modal-input:focus {
   border-color: #2196f3;
   outline: 0;
-}
-.modal-label:has(.modal-input:focus) .modal-icon {
-  fill: #2196f3;
 }
 .modal-input-comment {
   height: 120px;
