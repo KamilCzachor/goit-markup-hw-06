@@ -464,7 +464,7 @@ div .twitter,
   border: solid #2196f3 1px;
   padding: 16px 32px;
   fill: #2196f3;
-  transition: border fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
   border-radius: 4px;
 }
 .content-list-element {
