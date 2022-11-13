@@ -579,13 +579,6 @@ div .twitter,
   text-align: center;
   justify-content: center;
 }
-.newsletter-button:hover,
-.newsletter-button:focus {
-  fill: #2196f3;
-  box-shadow: 0 0 5px #2196f3;
-  text-shadow: 0 0 5px;
-  transition: top 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
 
 .newsletter-icon {
   display: inline-flex;
@@ -688,7 +681,6 @@ div .twitter,
   border: 0;
 }
 .main-modal-button {
-  display: ;
   background-color: #2196f3;
   color: #ffffff;
   border: 0;
